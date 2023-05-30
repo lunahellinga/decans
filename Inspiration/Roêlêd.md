@@ -1,0 +1,19 @@
+1.  Spell Name: Warding Barrier Description: This spell creates a protective barrier infused with the defensive energies of Roêlêd. The barrier acts as a shield, providing enhanced protection against physical and magical threats, and preventing unauthorized access to a specific area or object. Practice: Shielding
+
+2.  Spell Name: Watchful Gaze Description: By tapping into the heightened alertness and sixth sense associated with Roêlêd, the mage can enhance their perception and awareness. This spell allows them to detect hidden dangers, sense the presence of unseen observers, and anticipate imminent threats. Practice: Knowing
+
+3.  Spell Name: Shield of Thorns Description: This spell imbues a shield or protective object with the sharpness and deterrent power of thorns. The shield becomes covered in thorny protrusions, providing both physical defense and discouraging attacks from adversaries. Practice: Making
+
+4.  Spell Name: Sentinel's Vigil Description: By invoking the wisdom of experience and vigilance, this spell heightens a person's senses and perception. The recipient becomes more attuned to their surroundings, able to detect subtle changes, and gain insights into hidden dangers or potential threats. Practice: Perfecting
+
+5.  Spell Name: Fortification Ritual Description: This ritual utilizes the enduring strength of Roêlêd to fortify a location or structure. It reinforces walls, strengthens foundations, and enhances the overall defensive capabilities of the fortified area, making it more resilient against external threats. Practice: Patterning
+
+6.  Spell Name: Guardian's Embrace Description: This spell creates an ethereal manifestation of a guardian spirit or protective entity. The guardian materializes to defend a specific person, location, or object, serving as a formidable and vigilant protector against any potential harm. Practice: Veiling
+
+7.  Spell Name: Warning Whispers Description: By channeling the essence of Roêlêd, the mage can send subtle warnings or premonitions to individuals in the form of whispered messages. These whispers convey intuitive insights, cautionary advice, and prompt individuals to exercise vigilance and preparedness. Practice: Compelling
+
+8.  Spell Name: Armored Resilience Description: This spell enhances the physical resilience and durability of an individual, imbuing them with an additional layer of protection. It strengthens the body, increases endurance, and reduces the impact of physical attacks. Practice: Perfecting
+
+9.  Spell Name: Chain of Guardians Description: This ritual summons a network of ethereal guardians, linked together by invisible chains. The guardians act as sentinels, spreading across a designated area or forming a protective perimeter. They collaborate to detect and repel any threats that may arise. Practice: Weaving
+
+10. Spell Name: Surveillance Veil Description: This spell creates an illusionary veil of deception and misdirection, concealing the true nature of a location, object, or individual from prying eyes. It masks the presence of surveillance systems, manipulates perception, and ensures the privacy and secrecy of the target. Practice: Veiling

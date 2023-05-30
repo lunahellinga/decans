@@ -1,0 +1,19 @@
+1.  Spell Name: Fading Beauty Description: This spell harnesses the essence of Tepsisem to gradually fade or diminish the beauty or allure of a person, object, or location. It causes vibrant colors to lose their vibrancy, delicate features to become weathered, and once attractive elements to deteriorate over time. Practice: Unmaking
+
+2.  Spell Name: Restoration's Touch Description: By channeling the power of Tepsisem, this spell allows the mage to reverse the effects of decay and restore lost beauty. It can repair damaged works of art, rejuvenate faded photographs, and revitalize deteriorating structures, bringing back their former allure. Practice: Making
+
+3.  Spell Name: Ephemeral Veil Description: This spell creates a temporary illusion of transient beauty. It veils an object, person, or location with an enchanting aura that captivates observers, evoking a sense of fleeting elegance and enchantment. Practice: Veiling
+
+4.  Spell Name: Melancholic Resonance Description: By tapping into the influence of Tepsisem, this spell creates a haunting ambiance that evokes a sense of melancholy and nostalgia. It fills a space with a bittersweet atmosphere, triggering deep emotions and a longing for the beauty that once was. Practice: Perfecting
+
+5.  Spell Name: Transient Artistry Description: This spell allows the mage to create ephemeral works of art that exist only for a short period of time. It could be a fleeting sculpture made of sand or ice, a temporary painting on water, or a performance piece that leaves a lasting impression but quickly fades away. Practice: Weaving
+
+6.  Spell Name: Decaying Embrace Description: By invoking the power of Tepsisem, this spell accelerates the process of decay and deterioration. It causes organic or inorganic matter to crumble, corrode, or decompose at an accelerated rate, emphasizing the impermanence and transience of all things. Practice: Unmaking
+
+7.  Spell Name: Flickering Illusion Description: This spell creates an illusion that mimics the flickering and fading effect of an old film or photograph. It distorts reality, making it appear as if the world is composed of fleeting images and fragments, blurring the line between what is real and what is transient. Practice: Fraying
+
+8.  Spell Name: Nostalgic Echo Description: By drawing on the essence of Tepsisem, this spell allows the mage to evoke nostalgic memories and emotions in others. It triggers a sense of longing and wistfulness, transporting individuals back to moments of beauty and happiness that have become lost in time. Practice: Compelling
+
+9.  Spell Name: Fading Echoes Description: This spell gradually diminishes the echoes or residual energies of past events or emotions. It erodes the imprints left behind, making them fade into the background and eventually disappear, allowing for a fresh start and the release of lingering attachments. Practice: Unraveling
+
+10. Spell Name: Evanescent Restoration Description: By combining the principles of Tepsisem and Making, this spell temporarily restores the beauty and vibrancy of an object, person, or place. However, the restoration is ephemeral, lasting only for a short duration before fading away again. Practice: Making

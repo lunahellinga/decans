@@ -1,0 +1,19 @@
+1.  Spell Name: Wordsmith's Insight Description: This spell taps into the influence of Naôth to enhance linguistic and communication abilities. It grants the mage heightened intuition and understanding of languages, allowing them to decipher obscure texts, speak fluently in unfamiliar tongues, or gain deep insights from written or spoken words. Practice: Knowing
+
+2.  Spell Name: Symbolic Resonance Description: By invoking the power of Naôth, the mage can imbue symbols and sigils with potent meaning and resonance. This spell enhances the symbolism of an object or mark, making it more effective in rituals, spells, or communication with supernatural entities. Practice: Patterning
+
+3.  Spell Name: Veil of Rhetoric Description: This spell employs the influence of Naôth to enhance persuasive abilities and manipulate the power of words. It allows the mage to craft compelling arguments, deliver persuasive speeches, or influence the emotions and thoughts of others through language. Practice: Compelling
+
+4.  Spell Name: Linguistic Convergence Description: By channeling the essence of Naôth, the mage can create a temporary telepathic link between individuals, enabling them to communicate effortlessly and silently. This spell allows for the exchange of thoughts, ideas, and emotions without the need for spoken words. Practice: Weaving
+
+5.  Spell Name: Dreamwalkers' Dialogue Description: This spell facilitates communication and shared experiences in the realm of dreams. By harnessing the influence of Naôth, the mage can enter the collective dream space, engage in conversations with other dreamers, or guide and teach others within the realm of dreams. Practice: Unveiling
+
+6.  Spell Name: Conceptual Manipulation Description: By drawing upon the power of Naôth, the mage can manipulate and reshape concepts, ideas, and symbolic representations. This spell allows them to alter the perception and understanding of abstract notions, shift paradigms, or create mental constructs that influence perception. Practice: Ruling
+
+7.  Spell Name: Echoes of Storytelling Description: This spell invokes the essence of Naôth to tap into the collective unconscious and draw upon the power of archetypal stories and myths. It enables the mage to access ancient knowledge and wisdom contained within tales, legends, and folklore, allowing them to convey powerful messages and teachings through storytelling. Practice: Unveiling
+
+8.  Spell Name: Mnemonic Enchantment Description: By harnessing the influence of Naôth, the mage can enhance memory and mnemonic abilities. This spell allows them to imprint information deeply into their own or others' minds, ensuring accurate recall of details, languages, or complex teachings. Practice: Perfecting
+
+9.  Spell Name: Linguistic Encryption Description: This spell utilizes the influence of Naôth to create secret codes, ciphers, or encrypted messages. It allows the mage to conceal information within language, making it incomprehensible to those without the key or specific knowledge. Practice: Veiling
+
+10. Spell Name: Imagery Manifestation Description: By channeling the power of Naôth, the mage can bring vivid imagery and symbols into physical manifestation. This spell allows them to create tangible representations of abstract concepts or visions, making them visible and accessible to others. Practice: Making
