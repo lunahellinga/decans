@@ -1,19 +1,50 @@
-1.  Spell Name: Technomancy Description: This spell taps into the influence of Ouare to manipulate and control machines and technological constructs. The mage can interact with and command complex machinery, override security systems, repair damaged devices, or even cause malfunctions in electronic systems. Practice: Ruling
-
-2.  Spell Name: Alloy Transmutation Description: By harnessing the power of Ouare, the mage can transform the properties of alloys and materials. This spell allows for the manipulation of metal compositions, altering their strength, conductivity, or other characteristics to suit specific needs or create new alloys with unique properties. Practice: Making
-
-3.  Spell Name: Virtual Projection Description: This spell enables the mage to project their consciousness into virtual reality matrices or computer systems. They can navigate digital landscapes, interact with virtual objects and entities, and manipulate the virtual environment to their advantage. Practice: Veiling
-
-4.  Spell Name: Golem Animation Description: By invoking the influence of Ouare, the mage can animate inanimate objects, bringing them to life as golems or constructs. These artificial beings can be given specific tasks or programmed to protect and serve the mage, acting as loyal guardians or assistants. Practice: Making
-
-5.  Spell Name: Machine Possession Description: This spell allows the mage to temporarily merge their consciousness with a machine or vehicle, gaining control over its functions and capabilities. They can pilot vehicles with unmatched precision, operate complex machinery, or manipulate technology from within, exploiting its full potential. Practice: Ruling
-
-6.  Spell Name: Circuit Manipulation Description: By channeling the power of Ouare, the mage can manipulate electrical circuits and systems. This spell enables them to reroute power, disable or overload electronic devices, create temporary connections between disparate systems, or even induce electric surges. Practice: Fraying
-
-7.  Spell Name: Construct Enhancement Description: This spell empowers existing constructs or technological entities, enhancing their capabilities and performance. The mage can strengthen their defenses, improve their functionality, or upgrade their abilities, making them more efficient or formidable in their designated tasks. Practice: Perfecting
-
-8.  Spell Name: Automaton Creation Description: By harnessing the influence of Ouare, the mage can create intricate automatons or robotic entities. These constructs can be designed for various purposes, such as labor, combat, or companionship, and imbued with limited intelligence and autonomy. Practice: Making
-
-9.  Spell Name: Cybernetic Augmentation Description: This spell allows the mage to enhance their own body with cybernetic implants or modifications. By merging flesh and technology, they can gain improved physical abilities, sensory enhancements, or integrated tools and weapons. Practice: Making
-
-10. Spell Name: Transdimensional Drive Description: By tapping into the power of Ouare, the mage can manipulate space and travel through dimensions using vehicles or other means of transportation. This spell enables them to open portals, access hidden realms, or traverse vast distances in an instant. Practice: Unveiling
+{
+  "Spell Name": "Technomancy",
+  "Description": "This spell taps into the influence of Ouare to manipulate and control machines and technological constructs. The mage can interact with and command complex machinery, override security systems, repair damaged devices, or even cause malfunctions in electronic systems.",
+  "Practice": "Ruling"
+},
+{
+  "Spell Name": "Alloy Transmutation",
+  "Description": "By harnessing the power of Ouare, the mage can transform the properties of alloys and materials. This spell allows for the manipulation of metal compositions, altering their strength, conductivity, or other characteristics to suit specific needs or create new alloys with unique properties.",
+  "Practice": "Making"
+},
+{
+  "Spell Name": "Virtual Projection",
+  "Description": "This spell enables the mage to project their consciousness into virtual reality matrices or computer systems. They can navigate digital landscapes, interact with virtual objects and entities, and manipulate the virtual environment to their advantage.",
+  "Practice": "Veiling"
+},
+{
+  "Spell Name": "Golem Animation",
+  "Description": "By invoking the influence of Ouare, the mage can animate inanimate objects, bringing them to life as golems or constructs. These artificial beings can be given specific tasks or programmed to protect and serve the mage, acting as loyal guardians or assistants.",
+  "Practice": "Making"
+},
+{
+  "Spell Name": "Machine Possession",
+  "Description": "This spell allows the mage to temporarily merge their consciousness with a machine or vehicle, gaining control over its functions and capabilities. They can pilot vehicles with unmatched precision, operate complex machinery, or manipulate technology from within, exploiting its full potential.",
+  "Practice": "Ruling"
+},
+{
+  "Spell Name": "Circuit Manipulation",
+  "Description": "By channeling the power of Ouare, the mage can manipulate electrical circuits and systems. This spell enables them to reroute power, disable or overload electronic devices, create temporary connections between disparate systems, or even induce electric surges.",
+  "Practice": "Fraying"
+},
+{
+  "Spell Name": "Construct Enhancement",
+  "Description": "This spell empowers existing constructs or technological entities, enhancing their capabilities and performance. The mage can strengthen their defenses, improve their functionality, or upgrade their abilities, making them more efficient or formidable in their designated tasks.",
+  "Practice": "Perfecting"
+},
+{
+  "Spell Name": "Automaton Creation",
+  "Description": "By harnessing the influence of Ouare, the mage can create intricate automatons or robotic entities. These constructs can be designed for various purposes, such as labor, combat, or companionship, and imbued with limited intelligence and autonomy.",
+  "Practice": "Making"
+},
+{
+  "Spell Name": "Cybernetic Augmentation",
+  "Description": "This spell allows the mage to enhance their own body with cybernetic implants or modifications. By merging flesh and technology, they can gain improved physical abilities, sensory enhancements, or integrated tools and weapons.",
+  "Practice": "Making"
+},
+{
+  "Spell Name": "Transdimensional Drive",
+  "Description": "By tapping into the power of Ouare, the mage can manipulate space and travel through dimensions using vehicles or other means of transportation. This spell enables them to open portals, access hidden realms, or traverse vast distances in an instant.",
+  "Practice": "Unveiling"
+}

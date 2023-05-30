@@ -1,19 +1,50 @@
-1.  Spell: Tainted Bliss Description: This spell taps into the corrupting influence of Akton to create a temporary state of euphoria and pleasure in the target, intensifying their sensory experiences and overriding their inhibitions. Practice: Compelling
-
-2.  Spell: Soul's Descent Description: By invoking Akton's power, the mage can delve into the depths of a person's soul, uncovering hidden desires, suppressed memories, and dark secrets that have contributed to their own corruption or decadence. Practice: Knowing
-
-3.  Spell: Veil of Corruption Description: This spell shrouds the target in an aura of spiritual decay and moral corruption, causing others to perceive them as untrustworthy or repulsive. It enhances their ability to manipulate others through fear or disgust. Practice: Veiling
-
-4.  Spell: Rotting Decay Description: The mage channels the essence of Akton to accelerate the decay and decomposition of organic matter, causing it to wither, rot, and decompose rapidly. This can be used to destroy evidence, weaken enemies, or disrupt natural processes. Practice: Unmaking
-
-5.  Spell: Withering Touch Description: By making physical contact with the target, the mage inflicts a spiritual decay upon them, sapping their vitality, draining their energy, and causing them to age rapidly or become more susceptible to illness and weakness. Practice: Fraying
-
-6.  Spell: Temptation's Whisper Description: This spell amplifies the seductive allure and persuasive power of the caster's words, making it easier to manipulate others into giving in to their darkest desires or engaging in self-destructive behaviors. Practice: Ruling
-
-7.  Spell: Searing Vice Description: The mage channels the corrupting energy of Akton into a physical manifestation, such as a burning brand or an ethereal whip, inflicting agonizing pain upon the target while also fostering a perverse pleasure in their suffering. Practice: Perfecting
-
-8.  Spell: Miasma of Depravity Description: The mage conjures a noxious cloud of spiritual pollution, permeating an area with a palpable sense of moral decay and despair. Those within the area may be overwhelmed by their own darkest impulses and tempted towards immoral actions. Practice: Shielding
-
-9.  Spell: Echoes of Degradation Description: By tapping into the spiritual residue left behind by acts of corruption and debauchery, the mage can uncover echoes of past events, witnessing the memories and emotions imprinted upon the surroundings and gaining insights into the nature of the decay. Practice: Unveiling
-
-10. Spell: Salvation's Decay Description: This spell manipulates the forces of decay and corruption to bring about the downfall or destruction of an individual or organization that embodies extreme moral depravity or tyranny. Practice: Unraveling
+{
+  "Spell Name": "Tainted Bliss",
+  "Description": "This spell taps into the corrupting influence of Akton to create a temporary state of euphoria and pleasure in the target, intensifying their sensory experiences and overriding their inhibitions.",
+  "Practice": "Compelling"
+},
+{
+  "Spell Name": "Soul's Descent",
+  "Description": "By invoking Akton's power, the mage can delve into the depths of a person's soul, uncovering hidden desires, suppressed memories, and dark secrets that have contributed to their own corruption or decadence.",
+  "Practice": "Knowing"
+},
+{
+  "Spell Name": "Veil of Corruption",
+  "Description": "This spell shrouds the target in an aura of spiritual decay and moral corruption, causing others to perceive them as untrustworthy or repulsive. It enhances their ability to manipulate others through fear or disgust.",
+  "Practice": "Veiling"
+},
+{
+  "Spell Name": "Rotting Decay",
+  "Description": "The mage channels the essence of Akton to accelerate the decay and decomposition of organic matter, causing it to wither, rot, and decompose rapidly. This can be used to destroy evidence, weaken enemies, or disrupt natural processes.",
+  "Practice": "Unmaking"
+},
+{
+  "Spell Name": "Withering Touch",
+  "Description": "By making physical contact with the target, the mage inflicts a spiritual decay upon them, sapping their vitality, draining their energy, and causing them to age rapidly or become more susceptible to illness and weakness.",
+  "Practice": "Fraying"
+},
+{
+  "Spell Name": "Temptation's Whisper",
+  "Description": "This spell amplifies the seductive allure and persuasive power of the caster's words, making it easier to manipulate others into giving in to their darkest desires or engaging in self-destructive behaviors.",
+  "Practice": "Ruling"
+},
+{
+  "Spell Name": "Searing Vice",
+  "Description": "The mage channels the corrupting energy of Akton into a physical manifestation, such as a burning brand or an ethereal whip, inflicting agonizing pain upon the target while also fostering a perverse pleasure in their suffering.",
+  "Practice": "Perfecting"
+},
+{
+  "Spell Name": "Miasma of Depravity",
+  "Description": "The mage conjures a noxious cloud of spiritual pollution, permeating an area with a palpable sense of moral decay and despair. Those within the area may be overwhelmed by their own darkest impulses and tempted towards immoral actions.",
+  "Practice": "Shielding"
+},
+{
+  "Spell Name": "Echoes of Degradation",
+  "Description": "By tapping into the spiritual residue left behind by acts of corruption and debauchery, the mage can uncover echoes of past events, witnessing the memories and emotions imprinted upon the surroundings and gaining insights into the nature of the decay.",
+  "Practice": "Unveiling"
+},
+{
+  "Spell Name": "Salvation's Decay",
+  "Description": "This spell manipulates the forces of decay and corruption to bring about the downfall or destruction of an individual or organization that embodies extreme moral depravity or tyranny.",
+  "Practice": "Unraveling"
+}

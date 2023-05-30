@@ -1,19 +1,50 @@
-1.  Spell Name: Alchemical Transmutation Description: This spell allows the mage to manipulate and transmute various substances, transforming them from one form to another. They can change the properties of metals, convert materials into energy, or alter the composition of compounds. Practice: Making
-
-2.  Spell Name: Harmonic Resonance Description: By tapping into the vibrational frequencies of objects and phenomena, the mage can create powerful resonances. This spell can shatter structures, disrupt patterns, or amplify specific vibrations to achieve desired effects. Practice: Unmaking
-
-3.  Spell Name: Chaos Catalyst Description: This spell unleashes a surge of chaotic energy, destabilizing the targeted area or individual. It disrupts order, accelerates entropy, and causes random fluctuations in reality. Practice: Fraying
-
-4.  Spell Name: Pattern Reconstruction Description: By analyzing the underlying patterns and connections of a system, the mage can rebuild or repair its structure. This spell is useful for restoring broken objects, reweaving damaged spells, or reconstructing fragmented memories. Practice: Patterning
-
-5.  Spell Name: Fusion Forge Description: This spell enables the mage to harness the intense heat and energy of creation. They can manipulate and control fire, forge metals with precision, or ignite powerful explosions with controlled results. Practice: Ruling
-
-6.  Spell Name: Molecular Dissociation Description: By destabilizing molecular bonds, the mage can cause matter to disintegrate at a fundamental level. This spell can dissolve objects, break down structures, or disassemble complex systems into their constituent parts. Practice: Unraveling
-
-7.  Spell Name: Synchronicity Nexus Description: This spell establishes a temporary connection between seemingly unrelated events or entities. It allows the mage to orchestrate a chain reaction of events, ensuring that specific actions align in a coordinated and synchronized manner. Practice: Weaving
-
-8.  Spell Name: Shield of Flux Description: By manipulating the flow of energy and matter, the mage creates a shield that absorbs and redirects incoming attacks. It can defend against physical, magical, or energetic assaults, converting the destructive force into a controlled release. Practice: Shielding
-
-9.  Spell Name: Ephemeral Echoes Description: This spell taps into the remnants of past events and experiences, allowing the mage to access forgotten or hidden knowledge. It grants temporary insights, memories, or skills from the echoes of the past. Practice: Knowing
-
-10. Spell Name: Veil of Creation Description: By cloaking themselves in a veil of raw creative energy, the mage becomes an embodiment of potentiality. They can temporarily manifest new possibilities, inspiring innovation, and awakening dormant potential in themselves and others. Practice: Veiling
+{
+  "Spell Name": "Alchemical Transmutation",
+  "Description": "This spell allows the mage to manipulate and transmute various substances, transforming them from one form to another. They can change the properties of metals, convert materials into energy, or alter the composition of compounds.",
+  "Practice": "Making"
+},
+{
+  "Spell Name": "Harmonic Resonance",
+  "Description": "By tapping into the vibrational frequencies of objects and phenomena, the mage can create powerful resonances. This spell can shatter structures, disrupt patterns, or amplify specific vibrations to achieve desired effects.",
+  "Practice": "Unmaking"
+},
+{
+  "Spell Name": "Chaos Catalyst",
+  "Description": "This spell unleashes a surge of chaotic energy, destabilizing the targeted area or individual. It disrupts order, accelerates entropy, and causes random fluctuations in reality.",
+  "Practice": "Fraying"
+},
+{
+  "Spell Name": "Pattern Reconstruction",
+  "Description": "By analyzing the underlying patterns and connections of a system, the mage can rebuild or repair its structure. This spell is useful for restoring broken objects, reweaving damaged spells, or reconstructing fragmented memories.",
+  "Practice": "Patterning"
+},
+{
+  "Spell Name": "Fusion Forge",
+  "Description": "This spell enables the mage to harness the intense heat and energy of creation. They can manipulate and control fire, forge metals with precision, or ignite powerful explosions with controlled results.",
+  "Practice": "Ruling"
+},
+{
+  "Spell Name": "Molecular Dissociation",
+  "Description": "By destabilizing molecular bonds, the mage can cause matter to disintegrate at a fundamental level. This spell can dissolve objects, break down structures, or disassemble complex systems into their constituent parts.",
+  "Practice": "Unraveling"
+},
+{
+  "Spell Name": "Synchronicity Nexus",
+  "Description": "This spell establishes a temporary connection between seemingly unrelated events or entities. It allows the mage to orchestrate a chain reaction of events, ensuring that specific actions align in a coordinated and synchronized manner.",
+  "Practice": "Weaving"
+},
+{
+  "Spell Name": "Shield of Flux",
+  "Description": "By manipulating the flow of energy and matter, the mage creates a shield that absorbs and redirects incoming attacks. It can defend against physical, magical, or energetic assaults, converting the destructive force into a controlled release.",
+  "Practice": "Shielding"
+},
+{
+  "Spell Name": "Ephemeral Echoes",
+  "Description": "This spell taps into the remnants of past events and experiences, allowing the mage to access forgotten or hidden knowledge. It grants temporary insights, memories, or skills from the echoes of the past.",
+  "Practice": "Knowing"
+},
+{
+  "Spell Name": "Veil of Creation",
+  "Description": "By cloaking themselves in a veil of raw creative energy, the mage becomes an embodiment of potentiality. They can temporarily manifest new possibilities, inspiring innovation, and awakening dormant potential in themselves and others.",
+  "Practice": "Veiling"
+}
