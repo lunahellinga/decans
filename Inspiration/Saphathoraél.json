@@ -1,0 +1,51 @@
+[
+  {
+    "Spell Name": "Fluid Form",
+    "Description": "This spell allows the mage to transform their physical body into a liquid state, flowing like water. In this form, they can seep through small openings, evade physical attacks, and reform at will. It draws upon the influence of Saphathoraél, the decan of physical and conceptual water.",
+    "Practice": "Unmaking"
+  },
+  {
+    "Spell Name": "Aquatic Communication",
+    "Description": "By invoking the influence of Saphathoraél, this spell enables the mage to communicate with aquatic creatures and entities. They can understand and speak underwater languages, gaining insights from marine life and establishing connections with water-dwelling beings.",
+    "Practice": "Knowing"
+  },
+  {
+    "Spell Name": "Torrential Surge",
+    "Description": "This spell harnesses the power of Saphathoraél to create a powerful surge of water. It conjures a massive wave or torrent that can be directed toward a target, crashing with immense force and causing physical damage. The water element becomes a formidable weapon under the mage's control.",
+    "Practice": "Ruling"
+  },
+  {
+    "Spell Name": "Veil of Mist",
+    "Description": "By tapping into the nature of conceptual water, this spell allows the mage to shroud themselves or an area in a thick mist or fog. The mist obscures vision, making it difficult for others to see or navigate, providing a veil of protection or aiding in stealthy maneuvers.",
+    "Practice": "Veiling"
+  },
+  {
+    "Spell Name": "Tides of Emotion",
+    "Description": "Drawing upon the influence of Saphathoraél's connection to emotional water, this spell allows the mage to manipulate the emotions of others. They can enhance or dampen emotions, creating a tidal shift in the emotional state of individuals or groups.",
+    "Practice": "Compelling"
+  },
+  {
+    "Spell Name": "Reservoir of Healing",
+    "Description": "This spell taps into the healing properties of water and its association with rejuvenation. It creates a reservoir of healing energy that can be used to restore health and vitality to the wounded. It can be used for self-healing or to aid others in their recovery.",
+    "Practice": "Perfecting"
+  },
+  {
+    "Spell Name": "Frozen Embrace",
+    "Description": "By channeling the power of Saphathoraél's association with ice and cold, this spell encases a target or area in freezing temperatures. It creates a localized icy environment, immobilizing or slowing down individuals and objects caught within its grasp.",
+    "Practice": "Shielding"
+  },
+  {
+    "Spell Name": "Currents of Perception",
+    "Description": "This spell heightens the mage's senses and perception by attuning them to the flowing nature of water. It grants enhanced awareness, allowing them to detect subtle changes in their surroundings, perceive hidden truths, and navigate complex situations with clarity.",
+    "Practice": "Unveiling"
+  },
+  {
+    "Spell Name": "Reflections of Truth",
+    "Description": "This spell utilizes the reflective properties of water to reveal hidden truths or illusions. By gazing into a body of water or a reflective surface, the mage can unveil deceptions, illusions, or hidden aspects of reality, allowing them to see beyond superficial appearances.",
+    "Practice": "Patterning"
+  },
+  {
+    "Spell Name": "Serenity's Embrace",
+    "Description": "By invoking Saphathoraél's association with tranquility and serenity, this spell creates an aura of calmness and peace in the surroundings. It soothes turbulent emotions, dispels tension, and fosters a serene atmosphere conducive to meditation, introspection, or diplomatic interactions.",
+    "Practice": "Weaving"
+  }]

@@ -1,0 +1,50 @@
+[
+  {
+    "Spell Name": "Echoes of Harmony",
+    "Description": "By tapping into the resonant frequencies of a location, the mage can amplify or manipulate sounds, creating harmonious echoes that reverberate through the area.",
+    "Practice": "Compelling"
+  },
+  {
+    "Spell Name": "Melodic Distortion",
+    "Description": "This spell distorts the sounds in an area, creating dissonance and confusion among those who hear it. It can be used to disrupt communication or mask other noises.",
+    "Practice": "Fraying"
+  },
+  {
+    "Spell Name": "Songbird's Serenade",
+    "Description": "By imitating the melodies of birds, the mage can create a soothing or captivating song that enchants those who listen, temporarily calming their emotions or drawing their attention.",
+    "Practice": "Veiling"
+  },
+  {
+    "Spell Name": "Sonic Imprint",
+    "Description": "This spell allows the mage to imprint a specific sound or phrase into an object or location, causing it to play back whenever certain conditions are met. It can be used for secret messages or alarms.",
+    "Practice": "Patterning"
+  },
+  {
+    "Spell Name": "Resonant Barrier",
+    "Description": "By creating a barrier of sound vibrations, the mage can shield an area from external noises or even block specific frequencies. It provides a zone of tranquility amidst chaos. Practice:Shielding"
+  },
+  {
+    "Spell Name": "Sonic Surge",
+    "Description": "The mage generates a powerful wave of sound that can knock back or disorient opponents, causing temporary deafness or disrupting their concentration.",
+    "Practice": "Ruling"
+  },
+  {
+    "Spell Name": "Harmonic Healing",
+    "Description": "By manipulating sound frequencies, the mage can use the power of music to accelerate healing processes or alleviate pain in living beings.",
+    "Practice": "Perfecting"
+  },
+  {
+    "Spell Name": "Whispers of Truth",
+    "Description": "This spell enhances the mage's hearing, allowing them to eavesdrop on conversations from a distance or pick up faint sounds that are normally imperceptible.",
+    "Practice": "Knowing"
+  },
+  {
+    "Spell Name": "Symphony of Illusions",
+    "Description": "By weaving together intricate sound patterns, the mage can create auditory illusions, tricking others into hearing nonexistent sounds or masking their own presence.",
+    "Practice": "Weaving"
+  },
+  {
+    "Spell Name": "Sonic Disintegration",
+    "Description": "This powerful spell harnesses the destructive potential of sound, causing vibrations that can shatter objects or even disintegrate matter.",
+    "Practice": "Unmaking"
+  }]
